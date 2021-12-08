@@ -9,6 +9,6 @@ Compatible with Devices running Windows 7 or later.
 
 ## Donations
 
-Please Donate to keep us alive!!
+Please Donate to keep our resources running!!
 
-==> https://payunow.com/complabs28/
+==> https://rzp.io/l/CLDonations/
